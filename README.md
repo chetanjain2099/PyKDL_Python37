@@ -1,6 +1,6 @@
 ## PyKDL for Python3.7
 
-Process to compile PyKDL for Python 37.
+Process to compile PyKDL for Python 37 Windows.
 
 ### Instructions to Compile
     1. Download and Install MinGW
